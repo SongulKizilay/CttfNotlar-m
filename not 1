@@ -1,0 +1,12 @@
+linpeas.sh 
+https://raw.githubusercontent.com/carlospolop/privilege-escalation-awesome-scripts-suite/master/linPEAS/linpeas.sh
+
+python http server
+python -m SimpleHTTPServer 1212  
+
+
+joomla 
+
+joomscan 
+
+
